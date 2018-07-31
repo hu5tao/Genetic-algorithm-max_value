@@ -8,6 +8,7 @@ matlab语言单独放在外面，C和C++工程代码放在文件夹下，如果V
 
 
 题目描述如下：求方程的最大值。
+![Image text](https://github.com/hu5tao/Genetic-algorithm-max_value/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20180731230639.png)
 
 其中三种编程实现算法的效率对比，可以详情看我上传的PPT。参数一样的时候，速度最快的肯定是C了。
   
