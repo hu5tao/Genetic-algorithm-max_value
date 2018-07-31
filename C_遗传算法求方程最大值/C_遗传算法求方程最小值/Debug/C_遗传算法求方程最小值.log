@@ -1,0 +1,24 @@
+﻿生成启动时间为 2018/7/31 22:31:50。
+     1>项目“E:\2016_12\自然计算\matlab_c\遗传算法求最大值\C_遗传算法求方程最大值\C_遗传算法求方程最小值\C_遗传算法求方程最小值.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (C_遗传算法求方程最小值.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         D:\Program Files\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt qiufangcheng.h "遗传算法求方程最大值.cpp"
+         遗传算法求方程最大值.cpp
+     1>e:\2016_12\自然计算\matlab_c\遗传算法求最大值\c_遗传算法求方程最大值\c_遗传算法求方程最小值\遗传算法求方程最大值.cpp(51): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\2016_12\自然计算\matlab_c\遗传算法求最大值\c_遗传算法求方程最大值\c_遗传算法求方程最小值\遗传算法求方程最大值.cpp(60): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\2016_12\自然计算\matlab_c\遗传算法求最大值\c_遗传算法求方程最大值\c_遗传算法求方程最小值\遗传算法求方程最大值.cpp(70): warning C4804: “<”: 在操作中使用类型“bool”不安全
+     1>e:\2016_12\自然计算\matlab_c\遗传算法求最大值\c_遗传算法求方程最大值\c_遗传算法求方程最小值\遗传算法求方程最大值.cpp(97): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\2016_12\自然计算\matlab_c\遗传算法求最大值\c_遗传算法求方程最大值\c_遗传算法求方程最小值\遗传算法求方程最大值.cpp(98): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\2016_12\自然计算\matlab_c\遗传算法求最大值\c_遗传算法求方程最大值\c_遗传算法求方程最小值\遗传算法求方程最大值.cpp(83): warning C4101: “cho2”: 未引用的局部变量
+     1>e:\2016_12\自然计算\matlab_c\遗传算法求最大值\c_遗传算法求方程最大值\c_遗传算法求方程最小值\遗传算法求方程最大值.cpp(171): warning C4101: “i”: 未引用的局部变量
+         qiufangcheng.h
+         正在生成代码...
+       Link:
+         D:\Program Files\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\2016_12\自然计算\matlab_c\遗传算法求最大值\C_遗传算法求方程最大值\Debug\C_遗传算法求方程最大值.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\2016_12\自然计算\matlab_c\遗传算法求最大值\C_遗传算法求方程最大值\Debug\C_遗传算法求方程最大值.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\2016_12\自然计算\matlab_c\遗传算法求最大值\C_遗传算法求方程最大值\Debug\C_遗传算法求方程最大值.lib" /MACHINE:X86 Debug\qiufangcheng.obj
+         "Debug\遗传算法求方程最大值.obj"
+         C_遗传算法求方程最小值.vcxproj -> E:\2016_12\自然计算\matlab_c\遗传算法求最大值\C_遗传算法求方程最大值\Debug\C_遗传算法求方程最大值.exe
+     1>已完成生成项目“E:\2016_12\自然计算\matlab_c\遗传算法求最大值\C_遗传算法求方程最大值\C_遗传算法求方程最小值\C_遗传算法求方程最小值.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.38
